@@ -1,0 +1,14 @@
+{
+    "name": "Testnet Tokens",
+    "symbol": "Test Tokens",
+    "description": "Tokens On Solana Test Network",
+    "image": "https://raw.githubusercontent.com/swarnilk29/sol-token-launchpad/main/src/assets/metadata/image.png",
+
+
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
