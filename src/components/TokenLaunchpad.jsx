@@ -65,7 +65,7 @@ const TokenLaunchPad = () => {
         mint: mintKeypair.publicKey,
         name: formData.tokenName,
         symbol: formData.symbol,
-        uri: "your-metadata-uri-here",
+        uri: "https://raw.githubusercontent.com/swarnilk29/sol-token-launchpad/main/src/assets/metadata/metadata.json",
         additionalMetadata: [],
       }
 
